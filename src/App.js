@@ -1,7 +1,18 @@
 import "./App.css";
+import Hero from "./components/Hero";
+import SearchBar from "./components/SearchBar";
+import Content from "./components/Content";
+import Footer from "./components/Footer";
 
-function App() {
-    return <div className="App bg-red-500">Hello</div>;
-}
+const App = () => {
+    return (
+        <div>
+            <Hero />
+            <SearchBar />
+            <Content />
+            <Footer />
+        </div>
+    );
+};
 
 export default App;
