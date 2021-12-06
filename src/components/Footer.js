@@ -4,7 +4,7 @@ import { SiPixabay } from "react-icons/si";
 
 const Footer = () => {
     return (
-        <div className="w-full bg-pink-400 h-28 flex items-center justify-center">
+        <div className="w-full bg-gray-500 h-28 flex items-center justify-center text-white">
             <div className="socmed ">
                 <div className="socmed flex justify-center ">
                     <a

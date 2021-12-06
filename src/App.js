@@ -1,4 +1,3 @@
-import "./App.css";
 import Hero from "./components/Hero";
 import SearchBar from "./components/SearchBar";
 import Content from "./components/Content";
