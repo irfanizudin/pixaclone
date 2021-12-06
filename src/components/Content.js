@@ -14,7 +14,7 @@ const Content = () => {
         <div className="md:container md:mx-auto pb-6">
             <select
                 name="type"
-                className="focus:outline-none cursor-pointer rounded border-2 border-gray-300 px-3 py-1 mx-auto block mb-8"
+                className="focus:outline-none cursor-pointer rounded border-2 border-gray-300 px-3 py-1 mx-auto block mb-8 bg-white"
             >
                 <option selected value="popular">
                     Popular
